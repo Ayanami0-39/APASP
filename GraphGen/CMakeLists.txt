@@ -1,0 +1,1 @@
+add_executable(ggen graph_gen.cpp)
